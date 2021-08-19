@@ -1,4 +1,4 @@
-# EscapeShelter
+# Shelter
 301 Project week
 
 ## Cyclones Team 
